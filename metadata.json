@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Author Assistant",
+  "description": "A premium publishing house assistant that uses Gemini 3 Pro to help authors brainstorm projects, analyze cover art, and prepare professional submission requests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
